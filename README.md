@@ -1,6 +1,6 @@
 # Bem vindo
 ## Sobre Mim
-#### Olá! Meu nome é Miguel Rodrigues Botelho e sou entusiasta de tecnologia, estudante de ciência da computação na Universidade Federal de Pelotas. Tenho interesse na área de inteligência artificial.
+#### Olá! Meu nome é Miguel Rodrigues Botelho, sou entusiasta de tecnologia e tenho interesse na área de inteligência artificial, sou estudante de ciência da computação na Universidade Federal de Pelotas. 
 ### Contato: 
 ###### Email: mrbotelho@inf.ufpel.edu.br 
 ###### DC: .botlane
